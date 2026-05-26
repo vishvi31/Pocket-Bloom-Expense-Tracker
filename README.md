@@ -2,6 +2,9 @@
 
 Track Your Money. Grow Your Savings.
 
+<img width="1170" height="780" alt="expense-planner-mobile-app-ui-kit-figma-design" src="https://github.com/user-attachments/assets/a37f72bd-b31a-494d-8b67-ebd32721f72b" />
+
+
 Live App: https://bloom-save-sprout.lovable.app/
 
 ![Lovable](https://img.shields.io/badge/Built%20with-Lovable-ff69b4?style=for-the-badge)
@@ -20,6 +23,10 @@ what is left is yours to enjoy freely.
 ---
 
 ## App Preview
+
+
+<img width="1920" height="1080" alt="id-preview-42620f56--2156ba9c-117b-482b-9593-e442732d10ba lovable app-1779543587941" src="https://github.com/user-attachments/assets/adff5563-0738-4e3b-a980-6c5c31fbab09" />
+
 
 Live at: https://bloom-save-sprout.lovable.app/
 
@@ -58,7 +65,11 @@ Live at: https://bloom-save-sprout.lovable.app/
 
 ## Developer
 
-Vishvi - Data Science and AI Practitioner
+Vishvi - Data Scientist
 BA Hons English Literature, University of Delhi
+
+LinkedIn: www.linkedin.com/in/
+vishvi-vishvi-518046360
+
 
 GitHub: https://github.com/vishvi31
